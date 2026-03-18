@@ -1,4 +1,4 @@
-function Card() {
+﻿function Card() {
   return (
     <div style={{ 
       border: '1px solid #2e303a', 
